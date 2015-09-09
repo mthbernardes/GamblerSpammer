@@ -8,6 +8,7 @@ Neste arquivo deve conter a mensagem que sera enviada, o conteudo dessa mensagem
 Inserir nesse arquivo as caixas de e-email que iram receber o spam, os emails devem estar um abaixo do outro como no exemplo abaixo,
 
 tony@stark.com
+
 doug@funny.com
 
 tux@linux.org
